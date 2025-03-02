@@ -1,1 +1,2 @@
-# Game-Of-Life
+# GameOfLife
+Emulation of Generation sequence using Cellular Automata
